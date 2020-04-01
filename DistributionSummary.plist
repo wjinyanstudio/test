@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E1A352F8C250F154F4ACE24EEC27C58313968620</string>
+				<key>dateExpires</key>
+				<string>2021/3/30</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>7BX9X9468U.com.hesha.shinpaPayB</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>7BX9X9468U</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>辛巴钱包.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>98554a95-174d-4c54-9700-2f8c323e9eae</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.hesha.shinpaPayB</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>7BX9X9468U</string>
+				<key>name</key>
+				<string>Hesha (Shanghai) information technology co. LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
